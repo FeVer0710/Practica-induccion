@@ -1,0 +1,100 @@
+.header{
+    background-image: url("../img/concert.jpg");
+    height: 100vh;
+    background-size: conver;
+    background-position: center;
+    opacity: 0.9;
+}
+
+img{
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+}
+
+#title1{
+    padding-top: 300px;
+    text-align: center;
+    font-size: 70px;
+}
+
+#parraf1{
+    text-align: center;
+    font-size: 30px;
+}
+
+hr{
+    border: solid 1px white !important;
+    width: 1000px; 
+}
+
+.btn-danger{
+    background-color: rgb(236, 19, 104) !important;
+}
+
+.btn{
+    font-weight: bold !important;
+}
+
+.btn1, .btn2{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-warning{
+    background-color: rgba(192, 182, 182, 0.925) !important;
+}
+
+.btn-circle{    
+    border-radius: 40px !important;
+}
+
+.subtitles, .fab{
+    color: rgb(236, 19, 104);
+}
+
+.hr2{
+    border: solid 1px rgb(189, 188, 188) !important;
+    width: 1100px; 
+}
+
+.section3{
+    background-image: url("../img/concert.jpg");
+    height: 50vh;
+    background-position: center;
+}
+
+#title2{
+    padding-top: 150px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.bg-fondo{
+    background-color: rgb(217, 222, 228);
+}
+
+.section6{
+    background-image: url("../img/music1.jpg");
+    background-size: conver;
+    background-position: center;
+    opacity: 0.9;
+}
+
+.text{
+    margin-right: 20px;
+    color: white;
+    border-radius: 50%;
+    background: rgb(236, 19, 104);;
+    padding: 8px;
+}
+
+/* Footer */
+
+.footer{
+    background-color: black;
+}
+
+.nombre-footer{
+    text-align: center;
+    background-color: rgb(63, 60, 60);
+    padding: 20px;
+}
